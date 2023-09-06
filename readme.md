@@ -1,30 +1,20 @@
-# Data Disovery  - Find all your latest DATA - Its EASY !!!   
-
-![Code Logo](developer.png)
-
-## Description
-
-Welcome to the ** Data Disovery ** repository! This project demonstrates how find and register all your valuable date - EASILY  !!! 
-
-Data Discovery is an important data science - It is important to find your latest and most up to data data files   
+# Library Installer   - Easily bring all your Libraries up to date !!!   
 
 ![Code Logo](code.png)
 
-## NOTE - THIS REPOSITORY WORK IN PROGRESS 
+## Description
+
+## Welcome to the Library Installer repository! Easily bring all your Libraries up to date !!!  
+
+![Code Logo](developer.png)
 
 ## There are many ways to do this. It isnt perfect !!! so Experiment. Branch it and Change it. Collaborate and HAVE FUN !!! 
 
-![Code Logo](sample.png)
-
 ## Features
 
-- Configurable - Finds all kinds of raw Data like xlsx, txt, csv, pickle, feather, etc  
-- Configurable - you set the root directory and it searches everywhere for data  
 - Automates boring stuff 
 - Easily Configurable 
-- Makes your work open source 
 - Invites Collaboration
-- creative and Fun !!
 
 
 ## Notebook Features
@@ -33,14 +23,13 @@ Data Discovery is an important data science - It is important to find your lates
 - Self Testing 
 - Easily Configurable
 - Includes Talking Code - The code explains itself
-- Self Logging 
-- Self Debugging 
 - Low Code - or - No Code
-- Educational 
+
+![Code Logo](sample.png)
 
 ## Getting Started
 
-To get started with the **  Data Discovery ** project, follow these steps:
+To get started with the ** Library Installer  ** project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
