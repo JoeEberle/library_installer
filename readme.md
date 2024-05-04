@@ -38,4 +38,4 @@ To get started with the **Library Installer** solution repository, follow these 
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](library_installer.png)  <br>
+    ## Deliverables or Figures![additional_image](library_installer.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
