@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Library Installer - Solution for Library Installer
 Solution for Library Installer
 
@@ -9,8 +11,6 @@ Welcome to the solution **Library Installer** - an example for your projects
 Solution for Library Installer
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
