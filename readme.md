@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Library Installer - Solution for Library Installer
-Solution for Library Installer
+# Library Installer - 2024-03-15 10:39:07,381 - INFO - solution_temple Step 0 - Initialize the configuration file parser
+2024-03-15 10:39:07,381 - INFO - solution_temple Step 0 - Initialize the configuration file parser
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Library Installer** - an example for your projects
 
-Solution for Library Installer
+2024-03-15 10:39:07,381 - INFO - solution_temple Step 0 - Initialize the configuration file parser
 
 ![Image image_filename](sample.png)
 
