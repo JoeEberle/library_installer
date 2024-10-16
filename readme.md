@@ -39,11 +39,8 @@ To get started with the **Library Installer** solution repository, follow these 
  ![additional_image](library_installer.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
