@@ -4,21 +4,11 @@
 
 ## 2024-03-15 10:39:07,381 - INFO - solution_temple Step 0 - Initialize the configuration file parser
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Library Installer** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Library Installer** 
 
 2024-03-15 10:39:07,381 - INFO - solution_temple Step 0 - Initialize the configuration file parser
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
